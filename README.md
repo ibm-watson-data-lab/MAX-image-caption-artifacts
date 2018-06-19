@@ -1,5 +1,7 @@
 # MAX-image-caption-artifacts
 
+You can create the assets locally or download them from this repository.
+
 ## Create the frozen graph and web assets locally
 
 Follow the instructions in [generate-max-image-caption-assets.ipynb](generate-max-image-caption-assets.ipynb)
