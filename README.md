@@ -1,0 +1,1 @@
+# MAX-image-caption-artifacts
